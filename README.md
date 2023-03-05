@@ -6,3 +6,24 @@ I'm Al-AMIN from Bangladesh, and I am a full-stack web developer. I really enjoy
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect)](https://github.com/mdalamin-connect/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect&hide=contribs,prs)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect&count_private=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdalamin-connect&show_icons=true&theme=transparent)
+
+
+
+
+
+
+
